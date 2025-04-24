@@ -54,11 +54,7 @@ Here are some ideas to get you started:
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/fudzoFlutter/fudzoFlutter/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U3NzZmYzVhYzVhYzVhYzVhYzVhYzVhYzVhYzVhYzVhYzVhYzVhYzVhYzVhYzVhYzVhY/giphy.gif" alt="Hacker GIF" width="400"/>
 </div>
 
 <hr/>
