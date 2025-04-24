@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  
  🌱 I’m currently learning **Swift, C++, Python**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Flutter, Dart, Firebase... or anything [here]("https://t.me/jmINCIDE")**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 <a href="https://t.me/fudzoflutter" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-  <a href="mailto:fudzoflutter@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+<a href="https://instagram.com/fudzoFlutter" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+</a>
   <a href="https://linkedin.com/in/Juratbek-Nurullayev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
