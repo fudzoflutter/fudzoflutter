@@ -27,10 +27,7 @@ Here are some ideas to get you started:
  🔭 I’m currently working on **a marketplace**
  
  🌱 I’m currently learning **Swift, C++, Python**
-
-💬 Ask me about **Flutter, Dart, Firebase... or anything [here]<a href="https://t.me/fudzoflutter" target="_blank">**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about **Flutter, Dart, Firebase... or anything** [here](https://t.me/fudzoflutter)
 
  </div>
  
