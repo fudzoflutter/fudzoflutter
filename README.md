@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <div align="center">
  🔭 I’m currently working on **Anime App and CorruptionWEB**  
  🌱 I’m currently learning **Swift, C++, Python**  
- 💬 Ask me about **Flutter, Dart, Firebase... or anything** [here](https://t.me/jmINCIDE)
+ 💬 Ask me about **Flutter, Dart, Firebase...
 </div>
 
 <div align="center"> 
