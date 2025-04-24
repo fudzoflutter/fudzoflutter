@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  🔭 I’m currently working on **a marketplace**
  
  🌱 I’m currently learning **Swift, C++, Python**
-💬 Ask me about **Flutter, Dart, Firebase... or anything** [here](https://t.me/fudzoflutter)
+💬 Ask me about **Flutter, Dart, Firebase... or anything** [here](https://t.me/jmINCIDE)
 
  </div>
  
