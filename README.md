@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fudzo+Flutter!;" />
 </h1>
 
-<h3 align="center">A passionate Android/Web/Ios developer from Uzbekistan 🇨🇦</h3>
+<h3 align="center">A passionate Android/Web/Ios developer from Uzbekistan 🇺🇿</h3>
 
 <br/>
 
@@ -36,6 +36,9 @@ Here are some ideas to get you started:
  </div>
  
 <div align="center"> 
+<a href="https://t.me/fudzoflutter" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
   <a href="mailto:fudzoflutter@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
