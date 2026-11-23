@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center"> 
-  <a href="https://t.me/fudzoFlutter" target="_blank">
+  <a href="https://t.me/jmINCIDE" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://instagram.com/fudzoFlutter" target="_blank">
+  <a href="https://instagram.com/incidepain" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://linkedin.com/in/Juratbek-Nurullayev" target="_blank">
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 <hr/>
 
 <div align="center">
-  <a href='https://ko-fi.com/fudzoFlutter' target='_blank'>
+  <a href='https://ko-fi.com/juratbeknurullayev' target='_blank'>
     <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
   </a>
 </div>
